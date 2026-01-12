@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageCalculator", "AverageCalculator\AverageCalculator.csproj", "{5B2FD1D8-269A-48A4-8907-9EC6DAAFD5DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageCalculator.Tests", "AverageCalculator.Tests\AverageCalculator.Tests.csproj", "{DBE56542-C16E-467F-BEF1-BA140672CF4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{5B2FD1D8-269A-48A4-8907-9EC6DAAFD5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B2FD1D8-269A-48A4-8907-9EC6DAAFD5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B2FD1D8-269A-48A4-8907-9EC6DAAFD5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE56542-C16E-467F-BEF1-BA140672CF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE56542-C16E-467F-BEF1-BA140672CF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE56542-C16E-467F-BEF1-BA140672CF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE56542-C16E-467F-BEF1-BA140672CF4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
